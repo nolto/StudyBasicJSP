@@ -30,3 +30,4 @@ create table manager(
 insert into manager(managerId,managerPasswd)
 	values('bookmaster@shop.com','123456');
 	
+
